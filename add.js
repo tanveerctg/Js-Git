@@ -1,5 +1,5 @@
-const num1=3;
+const num1=5;
 
-const num2=4;
+const num2=5;
 
 console.log(num1+num2);
